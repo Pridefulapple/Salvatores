@@ -38,16 +38,6 @@ div
 {
     align-items: center;
 }
-/*This belongs to Jordan Nacimba*/
-
-/*Mr Francisco, as you required I was going to create my CAPTION but I realize that it would affect my website.
-So I decided not to include it in my final presentation.*/
-
-/*As you can see each one of them (images) will drive you to a complete different website where you can buy your book.*/
-
-/*The title is obviously located in the top, the images are in between the name of the item and its price, and finally my social media is located below the table.*/
-
-/*Mr Francisco as you said I could skip the paragraphs and instead of that write the comments that I previously did.*/
 h1
 {
   align-self: center;
